@@ -23,3 +23,17 @@
 	right: 20px;
 	top: 25px;
 }
+
+@keyframes CogTurnning {
+	from {
+		transform: none;
+	}
+	to {
+		transform: rotateZ(360deg);
+	}
+}
+
+.screen-header__icons .fa-cog:hover {
+	will-change: transform;
+	animation: CogTurnning 1s linear infinite;
+}
