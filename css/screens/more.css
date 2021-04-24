@@ -24,9 +24,13 @@
 	align-items: center;
 }
 .more-suggestions__icon-image {
-	font-size: 20px;
+	font-size: 15px;
 	display: flex;
 	margin-bottom: 15px;
+}
+
+.more-suggestions__icon-text {
+	font-size: 15px;
 }
 
 .more-emoji__reddot {
