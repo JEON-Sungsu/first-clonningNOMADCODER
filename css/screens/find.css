@@ -1,3 +1,7 @@
+.main-screen {
+	height: 100vh;
+}
+
 .recommended-friends {
 	border-top: var(--main-border);
 	border-bottom: var(--main-border);
