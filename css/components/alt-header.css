@@ -6,11 +6,12 @@
 	margin: 15px 0px;
 }
 .alt-header__column h1 {
-	font-size: 28px;
+	font-size: 25px;
 	font-weight: 600;
 }
 .alt-header__column {
 	width: 33%;
+	font-size: 13px;
 }
 
 .alt-header__column:first-child {
