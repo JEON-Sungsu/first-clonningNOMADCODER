@@ -18,6 +18,10 @@
 	font-size: 25px;
 	font-weight: 700;
 }
+
+.user-component__column {
+	font-size: 15px;
+}
 .user-component__subtitle {
 	margin-top: 10px;
 	color: rgba(0, 0, 0, 0.5);
